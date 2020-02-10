@@ -1,0 +1,6 @@
+node_modules/
+public/bundle.js
+src/main-t.js
+src/maind.js
+main-t.js
+yarn-error.log
